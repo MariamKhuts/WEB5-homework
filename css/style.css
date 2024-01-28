@@ -1,7 +1,7 @@
 .team {width: 1336px;
         height: 175px;
     }
-  .titlediv {width: 716px;
+.titlediv {width: 716px;
             height:26px; 
           
           padding-left: 310px;padding-top: 80px;
@@ -24,8 +24,7 @@ color: #5F6980;font-family: 'Inter', sans-serif;}
         background-color: #FFFFFF ;
     margin-top: 110px; display:flex;
 margin-left:52px;margin-right: 52px;
- }
- .lowerbox{width: 1336px;
+ }.lowerbox{width: 1336px;
     height: 430px;
 background-color: #FFFFFF ;
 margin-top:48px; display:flex;
@@ -71,3 +70,69 @@ color: #3E3E59;font-family: 'Inter', sans-serif;}
      .insta { margin-left: 16px;
      margin-right: 16px;}
      .first {background-color: red;}
+
+     .service 
+     {margin-top: 48px;
+        width: 1440px;
+    
+     height: 453px;
+    background-color: #a8a6a6;}
+
+    .footdiv { width: 1654px;
+     height: 512px;
+     display: flex;
+     margin-top: 108px;
+     padding-left: 52px;
+     padding-right: 52px;
+     padding-bottom: 181px;
+    ;}
+    .socicons {width:318.05px ;
+       height: 221px;
+       padding-top:108px; 
+    padding-left: 52px;
+    padding-bottom: 83px;
+}
+.logo1 { padding: auto;width: 100px;
+         height: 64px;}
+.foottext {margin-top: 32px;font-size: 14px;
+line-height: 16.94px;
+font-family: 'Inter', sans-serif;
+color:#535353;}
+.sicons {display: flex;
+     flex-direction: raw;
+    margin-top: 28px;}
+    .instasize {margin-left:18.23px ;
+         margin-right:18.23px ;}
+         .linksdiv { width: 136px;
+        height: 223px;
+          margin-top: 108px;
+        margin-left: 144.95px;
+    }
+    .links {font-size: 20px;
+    line-height: 24.20px;font-family: 'Inter', sans-serif;}
+.list {margin-top: 71px; font-size: 14px;
+color: #535353;line-height: 16.94px; font-family: 'Inter', sans-serif;
+}
+.aboutlist {margin-top: 20px;
+  margin-bottom: 20px;
+ }
+ .listservices {width:199px ;
+height: 223px;
+margin-top: 108px;
+margin-left: 254px;}
+.langdiv {width: 107px;
+          height: 127.45px;
+        margin-top: 108px;
+    margin-left: 147px;
+   margin-right: 184px;}
+.smalldiv{width:80px ;
+ height:45px ;
+ background-color: #054A68;
+ margin-top: 58.45px;}
+.eng {color: #FFFFFF;
+font-size: 14px;
+padding-top:14px ;
+padding-left: 16px;
+padding-bottom: 16px;
+padding-right: 14px;
+font-family: 'Inter', sans-serif;}
