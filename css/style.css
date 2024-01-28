@@ -1,0 +1,66 @@
+.team {width: 1336px;
+        height: 175px;
+    }
+  .titlediv {width: 716px;
+            height:26px; 
+          
+          padding-left: 310px;padding-top: 80px;
+          } 
+.title {display: flex; justify-content:center;
+     font-size: 16px; font-family: 'Inter', sans-serif; }
+.maintitle {color: #282828;
+    display: flex; 
+    justify-content:center;
+     font-size: 62px;font-family: 'Inter', sans-serif;}
+.textdiv {display: flex; justify-content: center;
+width: 760px;
+height: 70px;
+padding-left: 340px;
+padding-top: 16px;}
+.text {font-size: 20px; line-height: 35px;
+color: #5F6980;font-family: 'Inter', sans-serif;}
+.upperbox {width: 1336px;
+            height: 430px;
+        background-color: #FFFFFF ;
+    margin-top: 110px; display:flex;
+margin-left:52px;margin-right: 52px;
+ }
+.box {width:310px ;
+ height: 430px;    }
+.image {padding-top: 0;width: 310px;
+        height: 230px;}
+        .second {margin-left: 32px;
+                margin-right: 32px;}
+                .fourth {margin-left: 32px;
+                  margin-right: 32px;}
+                  .name { display:flex; 
+                text-align:center;
+                   font-size: 18px;font-family: 'Inter', sans-serif;
+                padding-left: 16px; margin-top: 16px; line-height: 30px;}
+                .proff 
+                { display:flex; text-align:center;
+                    padding-left:16px;
+                margin-top: 4px; line-height: 22px;
+                   font-size: 14px;
+                color: #3E3E59;font-family: 'Inter', sans-serif;}
+                .loremtext {
+                    width:278px ;
+                    height:44px ;
+                     margin-top:8px;
+                    display:flex; text-align:center;
+                    padding-left:16px; 
+                    font-size: 14px; line-height: 22px;
+                    color: #3E3E59;font-family: 'Inter', sans-serif;}
+                    .socialicons {background-color: #FFFFFF;
+                        margin-top: 24px;
+                    width:278px ;
+                height: 36px;
+                display: flex;flex-direction: row;
+                }
+                
+                    .fb {padding-left:16px;
+                padding-bottom: 16px; 
+            width:36px ;
+        height: 36px;}
+     .insta { margin-left: 16px;
+     margin-right: 16px;}
